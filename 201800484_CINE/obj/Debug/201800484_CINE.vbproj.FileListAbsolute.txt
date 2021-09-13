@@ -1,0 +1,12 @@
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\bin\Debug\201800484_CINE.exe.config
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\bin\Debug\201800484_CINE.exe
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\bin\Debug\201800484_CINE.pdb
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\bin\Debug\201800484_CINE.xml
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\obj\Debug\201800484_CINE.vbprojAssemblyReference.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\obj\Debug\_201800484_CINE.Form1.resources
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\obj\Debug\_201800484_CINE.Resources.resources
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\obj\Debug\201800484_CINE.vbproj.GenerateResource.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\obj\Debug\201800484_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\obj\Debug\201800484_CINE.exe
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\obj\Debug\201800484_CINE.xml
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\201800484_TAREA5\201800484_CINE\201800484_CINE\obj\Debug\201800484_CINE.pdb
